@@ -27,8 +27,6 @@ A real-time, interactive dashboard built using **Power BI**, powered by live **W
 
 ## 📈 Sample Dashboard Layout
 
-> *(Add actual screenshots here if uploading to GitHub)*
-
 - **Weather Cards** showing temperature, humidity, wind speed, and condition icons  
 - **Line Chart** of daily forecasted temperature  
 - **Bar Chart or Donut Chart** for AQI pollutants  
@@ -96,7 +94,7 @@ A real-time, interactive dashboard built using **Power BI**, powered by live **W
 
 Feel free to share feedback or ideas for collaboration!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/abhishaw020/) *(Insert your profile link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishaw020/) 
 - 📬 [Email](mailto:abhishaw020@gmail.com)
 
 ---
